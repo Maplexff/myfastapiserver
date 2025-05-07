@@ -1,0 +1,1431 @@
+datasets\test\BlackSpot\Black Spot (1).jpg 0
+datasets\test\BlackSpot\Black Spot (100).jpg 0
+datasets\test\BlackSpot\Black Spot (101).jpg 0
+datasets\test\BlackSpot\Black Spot (102).jpg 0
+datasets\test\BlackSpot\Black Spot (104).jpg 0
+datasets\test\BlackSpot\Black Spot (121).jpg 0
+datasets\test\BlackSpot\Black Spot (123).jpg 0
+datasets\test\BlackSpot\Black Spot (124).jpg 0
+datasets\test\BlackSpot\Black Spot (125).jpg 0
+datasets\test\BlackSpot\Black Spot (126).jpg 0
+datasets\test\BlackSpot\Black Spot (129).jpg 0
+datasets\test\BlackSpot\Black Spot (139).jpg 0
+datasets\test\BlackSpot\Black Spot (140).jpg 0
+datasets\test\BlackSpot\Black Spot (148).jpg 0
+datasets\test\BlackSpot\Black Spot (157).jpg 0
+datasets\test\BlackSpot\Black Spot (16).jpg 0
+datasets\test\BlackSpot\Black Spot (166).jpg 0
+datasets\test\BlackSpot\Black Spot (170).jpg 0
+datasets\test\BlackSpot\Black Spot (171).jpg 0
+datasets\test\BlackSpot\Black Spot (173).jpg 0
+datasets\test\BlackSpot\Black Spot (182).jpg 0
+datasets\test\BlackSpot\Black Spot (183).jpg 0
+datasets\test\BlackSpot\Black Spot (185).jpg 0
+datasets\test\BlackSpot\Black Spot (191).jpg 0
+datasets\test\BlackSpot\Black Spot (205).jpg 0
+datasets\test\BlackSpot\Black Spot (211).jpg 0
+datasets\test\BlackSpot\Black Spot (213).jpg 0
+datasets\test\BlackSpot\Black Spot (214).jpg 0
+datasets\test\BlackSpot\Black Spot (216).jpg 0
+datasets\test\BlackSpot\Black Spot (226).jpg 0
+datasets\test\BlackSpot\Black Spot (228).jpg 0
+datasets\test\BlackSpot\Black Spot (231).jpg 0
+datasets\test\BlackSpot\Black Spot (235).jpg 0
+datasets\test\BlackSpot\Black Spot (244).jpg 0
+datasets\test\BlackSpot\Black Spot (247).jpg 0
+datasets\test\BlackSpot\Black Spot (248).jpg 0
+datasets\test\BlackSpot\Black Spot (249).jpg 0
+datasets\test\BlackSpot\Black Spot (250).jpg 0
+datasets\test\BlackSpot\Black Spot (252).jpg 0
+datasets\test\BlackSpot\Black Spot (264).jpg 0
+datasets\test\BlackSpot\Black Spot (267).jpg 0
+datasets\test\BlackSpot\Black Spot (268).jpg 0
+datasets\test\BlackSpot\Black Spot (271).jpg 0
+datasets\test\BlackSpot\Black Spot (274).jpg 0
+datasets\test\BlackSpot\Black Spot (28).jpg 0
+datasets\test\BlackSpot\Black Spot (281).jpg 0
+datasets\test\BlackSpot\Black Spot (284).jpg 0
+datasets\test\BlackSpot\Black Spot (285).jpg 0
+datasets\test\BlackSpot\Black Spot (286).jpg 0
+datasets\test\BlackSpot\Black Spot (300).jpg 0
+datasets\test\BlackSpot\Black Spot (312).jpg 0
+datasets\test\BlackSpot\Black Spot (313).jpg 0
+datasets\test\BlackSpot\Black Spot (315).jpg 0
+datasets\test\BlackSpot\Black Spot (32).jpg 0
+datasets\test\BlackSpot\Black Spot (35).jpg 0
+datasets\test\BlackSpot\Black Spot (37).jpg 0
+datasets\test\BlackSpot\Black Spot (44).jpg 0
+datasets\test\BlackSpot\Black Spot (45).jpg 0
+datasets\test\BlackSpot\Black Spot (46).jpg 0
+datasets\test\BlackSpot\Black Spot (57).jpg 0
+datasets\test\BlackSpot\Black Spot (58).jpg 0
+datasets\test\BlackSpot\Black Spot (61).jpg 0
+datasets\test\BlackSpot\Black Spot (63).jpg 0
+datasets\test\BlackSpot\Black Spot (66).jpg 0
+datasets\test\BlackSpot\Black Spot (74).jpg 0
+datasets\test\BlackSpot\Black Spot (75).jpg 0
+datasets\test\BlackSpot\Black Spot (8).jpg 0
+datasets\test\BlackSpot\Black Spot (87).jpg 0
+datasets\test\BlackSpot\Black Spot (88).jpg 0
+datasets\test\BlackSpot\Black Spot (93).jpg 0
+datasets\test\BlackSpot\Black_Spot (10).jpg 0
+datasets\test\BlackSpot\Black_Spot (1006).jpg 0
+datasets\test\BlackSpot\Black_Spot (1008).jpg 0
+datasets\test\BlackSpot\Black_Spot (1010).jpg 0
+datasets\test\BlackSpot\Black_Spot (1014).jpg 0
+datasets\test\BlackSpot\Black_Spot (1021).jpg 0
+datasets\test\BlackSpot\Black_Spot (1028).jpg 0
+datasets\test\BlackSpot\Black_Spot (1030).jpg 0
+datasets\test\BlackSpot\Black_Spot (1039).jpg 0
+datasets\test\BlackSpot\Black_Spot (1049).jpg 0
+datasets\test\BlackSpot\Black_Spot (1052).jpg 0
+datasets\test\BlackSpot\Black_Spot (1055).jpg 0
+datasets\test\BlackSpot\Black_Spot (1057).jpg 0
+datasets\test\BlackSpot\Black_Spot (1060).jpg 0
+datasets\test\BlackSpot\Black_Spot (1063).jpg 0
+datasets\test\BlackSpot\Black_Spot (1064).jpg 0
+datasets\test\BlackSpot\Black_Spot (1065).jpg 0
+datasets\test\BlackSpot\Black_Spot (1067).jpg 0
+datasets\test\BlackSpot\Black_Spot (1068).jpg 0
+datasets\test\BlackSpot\Black_Spot (1069).jpg 0
+datasets\test\BlackSpot\Black_Spot (1070).jpg 0
+datasets\test\BlackSpot\Black_Spot (1075).jpg 0
+datasets\test\BlackSpot\Black_Spot (1082).jpg 0
+datasets\test\BlackSpot\Black_Spot (1084).jpg 0
+datasets\test\BlackSpot\Black_Spot (1091).jpg 0
+datasets\test\BlackSpot\Black_Spot (1093).jpg 0
+datasets\test\BlackSpot\Black_Spot (1104).jpg 0
+datasets\test\BlackSpot\Black_Spot (111).jpg 0
+datasets\test\BlackSpot\Black_Spot (1112).jpg 0
+datasets\test\BlackSpot\Black_Spot (1119).jpg 0
+datasets\test\BlackSpot\Black_Spot (112).jpg 0
+datasets\test\BlackSpot\Black_Spot (1122).jpg 0
+datasets\test\BlackSpot\Black_Spot (1123).jpg 0
+datasets\test\BlackSpot\Black_Spot (1125).jpg 0
+datasets\test\BlackSpot\Black_Spot (1127).jpg 0
+datasets\test\BlackSpot\Black_Spot (1150).jpg 0
+datasets\test\BlackSpot\Black_Spot (1156).jpg 0
+datasets\test\BlackSpot\Black_Spot (1158).jpg 0
+datasets\test\BlackSpot\Black_Spot (1159).jpg 0
+datasets\test\BlackSpot\Black_Spot (1162).jpg 0
+datasets\test\BlackSpot\Black_Spot (1164).jpg 0
+datasets\test\BlackSpot\Black_Spot (1166).jpg 0
+datasets\test\BlackSpot\Black_Spot (1179).jpg 0
+datasets\test\BlackSpot\Black_Spot (119).jpg 0
+datasets\test\BlackSpot\Black_Spot (1194).jpg 0
+datasets\test\BlackSpot\Black_Spot (1196).jpg 0
+datasets\test\BlackSpot\Black_Spot (1197).jpg 0
+datasets\test\BlackSpot\Black_Spot (1216).jpg 0
+datasets\test\BlackSpot\Black_Spot (1222).jpg 0
+datasets\test\BlackSpot\Black_Spot (1223).jpg 0
+datasets\test\BlackSpot\Black_Spot (1224).jpg 0
+datasets\test\BlackSpot\Black_Spot (1232).jpg 0
+datasets\test\BlackSpot\Black_Spot (1234).jpg 0
+datasets\test\BlackSpot\Black_Spot (1236).jpg 0
+datasets\test\BlackSpot\Black_Spot (1247).jpg 0
+datasets\test\BlackSpot\Black_Spot (1251).jpg 0
+datasets\test\BlackSpot\Black_Spot (1253).jpg 0
+datasets\test\BlackSpot\Black_Spot (1271).jpg 0
+datasets\test\BlackSpot\Black_Spot (1272).jpg 0
+datasets\test\BlackSpot\Black_Spot (1274).jpg 0
+datasets\test\BlackSpot\Black_Spot (1276).jpg 0
+datasets\test\BlackSpot\Black_Spot (129).jpg 0
+datasets\test\BlackSpot\Black_Spot (130).jpg 0
+datasets\test\BlackSpot\Black_Spot (132).jpg 0
+datasets\test\BlackSpot\Black_Spot (14).jpg 0
+datasets\test\BlackSpot\Black_Spot (141).jpg 0
+datasets\test\BlackSpot\Black_Spot (147).jpg 0
+datasets\test\BlackSpot\Black_Spot (155).jpg 0
+datasets\test\BlackSpot\Black_Spot (157).jpg 0
+datasets\test\BlackSpot\Black_Spot (158).jpg 0
+datasets\test\BlackSpot\Black_Spot (166).jpg 0
+datasets\test\BlackSpot\Black_Spot (170).jpg 0
+datasets\test\BlackSpot\Black_Spot (171).jpg 0
+datasets\test\BlackSpot\Black_Spot (173).jpg 0
+datasets\test\BlackSpot\Black_Spot (175).jpg 0
+datasets\test\BlackSpot\Black_Spot (176).jpg 0
+datasets\test\BlackSpot\Black_Spot (189).jpg 0
+datasets\test\BlackSpot\Black_Spot (202).jpg 0
+datasets\test\BlackSpot\Black_Spot (206).jpg 0
+datasets\test\BlackSpot\Black_Spot (209).jpg 0
+datasets\test\BlackSpot\Black_Spot (215).jpg 0
+datasets\test\BlackSpot\Black_Spot (217).jpg 0
+datasets\test\BlackSpot\Black_Spot (218).jpg 0
+datasets\test\BlackSpot\Black_Spot (219).jpg 0
+datasets\test\BlackSpot\Black_Spot (24).jpg 0
+datasets\test\BlackSpot\Black_Spot (242).jpg 0
+datasets\test\BlackSpot\Black_Spot (255).jpg 0
+datasets\test\BlackSpot\Black_Spot (267).jpg 0
+datasets\test\BlackSpot\Black_Spot (272).jpg 0
+datasets\test\BlackSpot\Black_Spot (273).jpg 0
+datasets\test\BlackSpot\Black_Spot (279).jpg 0
+datasets\test\BlackSpot\Black_Spot (289).jpg 0
+datasets\test\BlackSpot\Black_Spot (292).jpg 0
+datasets\test\BlackSpot\Black_Spot (298).jpg 0
+datasets\test\BlackSpot\Black_Spot (299).jpg 0
+datasets\test\BlackSpot\Black_Spot (303).jpg 0
+datasets\test\BlackSpot\Black_Spot (312).jpg 0
+datasets\test\BlackSpot\Black_Spot (320).jpg 0
+datasets\test\BlackSpot\Black_Spot (322).jpg 0
+datasets\test\BlackSpot\Black_Spot (327).jpg 0
+datasets\test\BlackSpot\Black_Spot (328).jpg 0
+datasets\test\BlackSpot\Black_Spot (33).jpg 0
+datasets\test\BlackSpot\Black_Spot (332).jpg 0
+datasets\test\BlackSpot\Black_Spot (341).jpg 0
+datasets\test\BlackSpot\Black_Spot (342).jpg 0
+datasets\test\BlackSpot\Black_Spot (358).jpg 0
+datasets\test\BlackSpot\Black_Spot (361).jpg 0
+datasets\test\BlackSpot\Black_Spot (372).jpg 0
+datasets\test\BlackSpot\Black_Spot (373).jpg 0
+datasets\test\BlackSpot\Black_Spot (378).jpg 0
+datasets\test\BlackSpot\Black_Spot (379).jpg 0
+datasets\test\BlackSpot\Black_Spot (380).jpg 0
+datasets\test\BlackSpot\Black_Spot (383).jpg 0
+datasets\test\BlackSpot\Black_Spot (388).jpg 0
+datasets\test\BlackSpot\Black_Spot (392).jpg 0
+datasets\test\BlackSpot\Black_Spot (400).jpg 0
+datasets\test\BlackSpot\Black_Spot (418).jpg 0
+datasets\test\BlackSpot\Black_Spot (424).jpg 0
+datasets\test\BlackSpot\Black_Spot (426).jpg 0
+datasets\test\BlackSpot\Black_Spot (427).jpg 0
+datasets\test\BlackSpot\Black_Spot (434).jpg 0
+datasets\test\BlackSpot\Black_Spot (435).jpg 0
+datasets\test\BlackSpot\Black_Spot (436).jpg 0
+datasets\test\BlackSpot\Black_Spot (440).jpg 0
+datasets\test\BlackSpot\Black_Spot (445).jpg 0
+datasets\test\BlackSpot\Black_Spot (453).jpg 0
+datasets\test\BlackSpot\Black_Spot (454).jpg 0
+datasets\test\BlackSpot\Black_Spot (455).jpg 0
+datasets\test\BlackSpot\Black_Spot (46).jpg 0
+datasets\test\BlackSpot\Black_Spot (465).jpg 0
+datasets\test\BlackSpot\Black_Spot (467).jpg 0
+datasets\test\BlackSpot\Black_Spot (469).jpg 0
+datasets\test\BlackSpot\Black_Spot (486).jpg 0
+datasets\test\BlackSpot\Black_Spot (488).jpg 0
+datasets\test\BlackSpot\Black_Spot (494).jpg 0
+datasets\test\BlackSpot\Black_Spot (495).jpg 0
+datasets\test\BlackSpot\Black_Spot (50).jpg 0
+datasets\test\BlackSpot\Black_Spot (518).jpg 0
+datasets\test\BlackSpot\Black_Spot (519).jpg 0
+datasets\test\BlackSpot\Black_Spot (524).jpg 0
+datasets\test\BlackSpot\Black_Spot (53).jpg 0
+datasets\test\BlackSpot\Black_Spot (531).jpg 0
+datasets\test\BlackSpot\Black_Spot (533).jpg 0
+datasets\test\BlackSpot\Black_Spot (539).jpg 0
+datasets\test\BlackSpot\Black_Spot (542).jpg 0
+datasets\test\BlackSpot\Black_Spot (553).jpg 0
+datasets\test\BlackSpot\Black_Spot (554).jpg 0
+datasets\test\BlackSpot\Black_Spot (559).jpg 0
+datasets\test\BlackSpot\Black_Spot (560).jpg 0
+datasets\test\BlackSpot\Black_Spot (566).jpg 0
+datasets\test\BlackSpot\Black_Spot (567).jpg 0
+datasets\test\BlackSpot\Black_Spot (569).jpg 0
+datasets\test\BlackSpot\Black_Spot (573).jpg 0
+datasets\test\BlackSpot\Black_Spot (576).jpg 0
+datasets\test\BlackSpot\Black_Spot (59).jpg 0
+datasets\test\BlackSpot\Black_Spot (591).jpg 0
+datasets\test\BlackSpot\Black_Spot (592).jpg 0
+datasets\test\BlackSpot\Black_Spot (603).jpg 0
+datasets\test\BlackSpot\Black_Spot (604).jpg 0
+datasets\test\BlackSpot\Black_Spot (606).jpg 0
+datasets\test\BlackSpot\Black_Spot (607).jpg 0
+datasets\test\BlackSpot\Black_Spot (615).jpg 0
+datasets\test\BlackSpot\Black_Spot (618).jpg 0
+datasets\test\BlackSpot\Black_Spot (619).jpg 0
+datasets\test\BlackSpot\Black_Spot (626).jpg 0
+datasets\test\BlackSpot\Black_Spot (632).jpg 0
+datasets\test\BlackSpot\Black_Spot (64).jpg 0
+datasets\test\BlackSpot\Black_Spot (640).jpg 0
+datasets\test\BlackSpot\Black_Spot (644).jpg 0
+datasets\test\BlackSpot\Black_Spot (645).jpg 0
+datasets\test\BlackSpot\Black_Spot (653).jpg 0
+datasets\test\BlackSpot\Black_Spot (657).jpg 0
+datasets\test\BlackSpot\Black_Spot (658).jpg 0
+datasets\test\BlackSpot\Black_Spot (667).jpg 0
+datasets\test\BlackSpot\Black_Spot (668).jpg 0
+datasets\test\BlackSpot\Black_Spot (67).jpg 0
+datasets\test\BlackSpot\Black_Spot (670).jpg 0
+datasets\test\BlackSpot\Black_Spot (674).jpg 0
+datasets\test\BlackSpot\Black_Spot (675).jpg 0
+datasets\test\BlackSpot\Black_Spot (679).jpg 0
+datasets\test\BlackSpot\Black_Spot (682).jpg 0
+datasets\test\BlackSpot\Black_Spot (684).jpg 0
+datasets\test\BlackSpot\Black_Spot (686).jpg 0
+datasets\test\BlackSpot\Black_Spot (687).jpg 0
+datasets\test\BlackSpot\Black_Spot (698).jpg 0
+datasets\test\BlackSpot\Black_Spot (700).jpg 0
+datasets\test\BlackSpot\Black_Spot (701).jpg 0
+datasets\test\BlackSpot\Black_Spot (71).jpg 0
+datasets\test\BlackSpot\Black_Spot (714).jpg 0
+datasets\test\BlackSpot\Black_Spot (719).jpg 0
+datasets\test\BlackSpot\Black_Spot (724).jpg 0
+datasets\test\BlackSpot\Black_Spot (725).jpg 0
+datasets\test\BlackSpot\Black_Spot (726).jpg 0
+datasets\test\BlackSpot\Black_Spot (728).jpg 0
+datasets\test\BlackSpot\Black_Spot (732).jpg 0
+datasets\test\BlackSpot\Black_Spot (738).jpg 0
+datasets\test\BlackSpot\Black_Spot (74).jpg 0
+datasets\test\BlackSpot\Black_Spot (75).jpg 0
+datasets\test\BlackSpot\Black_Spot (754).jpg 0
+datasets\test\BlackSpot\Black_Spot (757).jpg 0
+datasets\test\BlackSpot\Black_Spot (762).jpg 0
+datasets\test\BlackSpot\Black_Spot (768).jpg 0
+datasets\test\BlackSpot\Black_Spot (77).jpg 0
+datasets\test\BlackSpot\Black_Spot (775).jpg 0
+datasets\test\BlackSpot\Black_Spot (779).jpg 0
+datasets\test\BlackSpot\Black_Spot (785).jpg 0
+datasets\test\BlackSpot\Black_Spot (79).jpg 0
+datasets\test\BlackSpot\Black_Spot (798).jpg 0
+datasets\test\BlackSpot\Black_Spot (8).jpg 0
+datasets\test\BlackSpot\Black_Spot (802).jpg 0
+datasets\test\BlackSpot\Black_Spot (803).jpg 0
+datasets\test\BlackSpot\Black_Spot (808).jpg 0
+datasets\test\BlackSpot\Black_Spot (809).jpg 0
+datasets\test\BlackSpot\Black_Spot (81).jpg 0
+datasets\test\BlackSpot\Black_Spot (811).jpg 0
+datasets\test\BlackSpot\Black_Spot (813).jpg 0
+datasets\test\BlackSpot\Black_Spot (817).jpg 0
+datasets\test\BlackSpot\Black_Spot (818).jpg 0
+datasets\test\BlackSpot\Black_Spot (827).jpg 0
+datasets\test\BlackSpot\Black_Spot (830).jpg 0
+datasets\test\BlackSpot\Black_Spot (843).jpg 0
+datasets\test\BlackSpot\Black_Spot (845).jpg 0
+datasets\test\BlackSpot\Black_Spot (847).jpg 0
+datasets\test\BlackSpot\Black_Spot (849).jpg 0
+datasets\test\BlackSpot\Black_Spot (850).jpg 0
+datasets\test\BlackSpot\Black_Spot (851).jpg 0
+datasets\test\BlackSpot\Black_Spot (855).jpg 0
+datasets\test\BlackSpot\Black_Spot (858).jpg 0
+datasets\test\BlackSpot\Black_Spot (860).jpg 0
+datasets\test\BlackSpot\Black_Spot (865).jpg 0
+datasets\test\BlackSpot\Black_Spot (867).jpg 0
+datasets\test\BlackSpot\Black_Spot (877).jpg 0
+datasets\test\BlackSpot\Black_Spot (880).jpg 0
+datasets\test\BlackSpot\Black_Spot (881).jpg 0
+datasets\test\BlackSpot\Black_Spot (884).jpg 0
+datasets\test\BlackSpot\Black_Spot (895).jpg 0
+datasets\test\BlackSpot\Black_Spot (899).jpg 0
+datasets\test\BlackSpot\Black_Spot (902).jpg 0
+datasets\test\BlackSpot\Black_Spot (903).jpg 0
+datasets\test\BlackSpot\Black_Spot (906).jpg 0
+datasets\test\BlackSpot\Black_Spot (92).jpg 0
+datasets\test\BlackSpot\Black_Spot (924).jpg 0
+datasets\test\BlackSpot\Black_Spot (937).jpg 0
+datasets\test\BlackSpot\Black_Spot (949).jpg 0
+datasets\test\BlackSpot\Black_Spot (950).jpg 0
+datasets\test\BlackSpot\Black_Spot (954).jpg 0
+datasets\test\BlackSpot\Black_Spot (955).jpg 0
+datasets\test\BlackSpot\Black_Spot (962).jpg 0
+datasets\test\BlackSpot\Black_Spot (972).jpg 0
+datasets\test\BlackSpot\Black_Spot (981).jpg 0
+datasets\test\DownyMildew\Downy Mildew  (106).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (107).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (116).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (124).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (131).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (133).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (136).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (137).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (138).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (143).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (147).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (155).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (158).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (16).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (164).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (167).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (169).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (176).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (177).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (18).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (185).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (19).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (190).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (2).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (24).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (25).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (28).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (33).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (38).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (46).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (53).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (57).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (58).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (61).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (62).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (7).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (72).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (83).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (84).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (86).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (93).jpg 1
+datasets\test\DownyMildew\Downy Mildew  (96).jpg 1
+datasets\test\DownyMildew\image_10.jpg 1
+datasets\test\DownyMildew\image_103.jpg 1
+datasets\test\DownyMildew\image_107.jpg 1
+datasets\test\DownyMildew\image_109.jpg 1
+datasets\test\DownyMildew\image_117.jpg 1
+datasets\test\DownyMildew\image_118.jpg 1
+datasets\test\DownyMildew\image_120.jpg 1
+datasets\test\DownyMildew\image_121.jpg 1
+datasets\test\DownyMildew\image_129.jpg 1
+datasets\test\DownyMildew\image_139.jpg 1
+datasets\test\DownyMildew\image_142.jpg 1
+datasets\test\DownyMildew\image_154.jpg 1
+datasets\test\DownyMildew\image_157.jpg 1
+datasets\test\DownyMildew\image_159.jpg 1
+datasets\test\DownyMildew\image_167.jpg 1
+datasets\test\DownyMildew\image_168.jpg 1
+datasets\test\DownyMildew\image_17.jpg 1
+datasets\test\DownyMildew\image_175.jpg 1
+datasets\test\DownyMildew\image_178.jpg 1
+datasets\test\DownyMildew\image_185.jpg 1
+datasets\test\DownyMildew\image_187.jpg 1
+datasets\test\DownyMildew\image_189.jpg 1
+datasets\test\DownyMildew\image_193.jpg 1
+datasets\test\DownyMildew\image_194.jpg 1
+datasets\test\DownyMildew\image_197.jpg 1
+datasets\test\DownyMildew\image_201.jpg 1
+datasets\test\DownyMildew\image_208.jpg 1
+datasets\test\DownyMildew\image_220.jpg 1
+datasets\test\DownyMildew\image_225.jpg 1
+datasets\test\DownyMildew\image_227.jpg 1
+datasets\test\DownyMildew\image_229.jpg 1
+datasets\test\DownyMildew\image_23.jpg 1
+datasets\test\DownyMildew\image_234.jpg 1
+datasets\test\DownyMildew\image_238.jpg 1
+datasets\test\DownyMildew\image_249.jpg 1
+datasets\test\DownyMildew\image_250.jpg 1
+datasets\test\DownyMildew\image_256.jpg 1
+datasets\test\DownyMildew\image_257.jpg 1
+datasets\test\DownyMildew\image_258.jpg 1
+datasets\test\DownyMildew\image_261.jpg 1
+datasets\test\DownyMildew\image_264.jpg 1
+datasets\test\DownyMildew\image_273.jpg 1
+datasets\test\DownyMildew\image_281.jpg 1
+datasets\test\DownyMildew\image_282.jpg 1
+datasets\test\DownyMildew\image_285.jpg 1
+datasets\test\DownyMildew\image_29.jpg 1
+datasets\test\DownyMildew\image_3.jpg 1
+datasets\test\DownyMildew\image_30.jpg 1
+datasets\test\DownyMildew\image_308.jpg 1
+datasets\test\DownyMildew\image_310.jpg 1
+datasets\test\DownyMildew\image_315.jpg 1
+datasets\test\DownyMildew\image_319.jpg 1
+datasets\test\DownyMildew\image_331.jpg 1
+datasets\test\DownyMildew\image_334.jpg 1
+datasets\test\DownyMildew\image_340.jpg 1
+datasets\test\DownyMildew\image_355.jpg 1
+datasets\test\DownyMildew\image_359.jpg 1
+datasets\test\DownyMildew\image_36.jpg 1
+datasets\test\DownyMildew\image_361.jpg 1
+datasets\test\DownyMildew\image_369.jpg 1
+datasets\test\DownyMildew\image_374.jpg 1
+datasets\test\DownyMildew\image_377.jpg 1
+datasets\test\DownyMildew\image_378.jpg 1
+datasets\test\DownyMildew\image_397.jpg 1
+datasets\test\DownyMildew\image_399.jpg 1
+datasets\test\DownyMildew\image_40.jpg 1
+datasets\test\DownyMildew\image_412.jpg 1
+datasets\test\DownyMildew\image_413.jpg 1
+datasets\test\DownyMildew\image_418.jpg 1
+datasets\test\DownyMildew\image_44.jpg 1
+datasets\test\DownyMildew\image_46.jpg 1
+datasets\test\DownyMildew\image_51.jpg 1
+datasets\test\DownyMildew\image_53.jpg 1
+datasets\test\DownyMildew\image_59.jpg 1
+datasets\test\DownyMildew\image_62.jpg 1
+datasets\test\DownyMildew\image_64.jpg 1
+datasets\test\DownyMildew\image_72.jpg 1
+datasets\test\DownyMildew\image_79.jpg 1
+datasets\test\DownyMildew\image_8.jpg 1
+datasets\test\DownyMildew\image_86.jpg 1
+datasets\test\DownyMildew\image_93.jpg 1
+datasets\test\DownyMildew\image_97.jpg 1
+datasets\test\HealthyLeaf\Fresh leaf(1).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(104).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(111).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(114).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(116).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(117).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(127).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(136).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(137).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(144).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(148).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(150).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(153).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(154).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(155).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(159).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(160).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(164).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(165).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(17).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(171).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(172).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(174).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(181).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(184).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(186).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(200).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(205).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(21).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(213).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(214).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(22).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(220).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(229).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(233).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(238).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(24).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(242).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(243).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(248).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(25).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(254).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(255).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(266).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(267).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(271).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(282).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(286).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(289).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(292).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(293).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(3).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(303).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(305).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(306).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(308).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(322).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(326).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(328).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(33).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(333).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(339).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(34).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(342).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(343).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(359).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(360).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(361).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(363).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(368).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(37).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(372).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(373).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(379).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(383).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(387).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(388).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(396).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(400).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(57).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(63).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(70).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(74).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(77).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(8).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(84).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(87).jpg 2
+datasets\test\HealthyLeaf\Fresh leaf(95).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (107).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (110).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (112).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (115).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (118).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (119).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (133).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (139).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (146).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (15).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (159).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (160).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (164).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (166).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (171).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (176).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (183).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (193).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (200).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (204).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (206).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (209).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (210).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (218).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (246).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (264).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (27).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (272).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (275).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (276).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (277).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (278).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (281).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (285).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (288).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (29).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (293).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (294).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (299).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (302).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (317).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (321).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (326).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (329).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (33).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (332).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (333).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (338).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (345).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (349).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (351).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (353).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (358).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (362).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (370).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (372).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (374).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (377).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (385).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (386).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (39).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (393).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (398).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (402).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (41).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (415).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (416).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (42).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (420).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (421).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (429).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (43).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (434).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (44).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (442).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (443).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (448).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (45).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (451).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (458).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (461).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (470).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (484).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (488).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (489).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (494).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (500).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (501).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (503).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (504).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (505).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (509).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (51).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (512).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (513).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (515).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (520).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (521).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (53).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (531).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (549).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (555).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (558).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (559).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (562).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (572).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (575).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (581).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (585).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (595).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (597).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (602).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (603).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (608).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (614).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (622).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (624).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (631).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (64).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (642).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (645).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (649).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (651).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (654).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (655).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (661).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (667).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (670).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (673).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (688).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (690).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (692).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (695).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (697).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (700).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (703).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (710).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (712).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (719).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (722).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (736).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (748).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (750).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (755).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (765).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (78).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (785).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (787).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (790).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (794).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (806).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (81).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (816).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (89).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (92).jpg 2
+datasets\test\HealthyLeaf\Healthy_Leaf (99).jpg 2
+datasets\test\LeafHoles\Insects Infected (1).jpg 3
+datasets\test\LeafHoles\Insects Infected (101).JPG 3
+datasets\test\LeafHoles\Insects Infected (105).JPG 3
+datasets\test\LeafHoles\Insects Infected (110).JPG 3
+datasets\test\LeafHoles\Insects Infected (111).JPG 3
+datasets\test\LeafHoles\Insects Infected (112).JPG 3
+datasets\test\LeafHoles\Insects Infected (115).JPG 3
+datasets\test\LeafHoles\Insects Infected (117).JPG 3
+datasets\test\LeafHoles\Insects Infected (139).JPG 3
+datasets\test\LeafHoles\Insects Infected (146).JPG 3
+datasets\test\LeafHoles\Insects Infected (152).JPG 3
+datasets\test\LeafHoles\Insects Infected (160).JPG 3
+datasets\test\LeafHoles\Insects Infected (164).JPG 3
+datasets\test\LeafHoles\Insects Infected (171).JPG 3
+datasets\test\LeafHoles\Insects Infected (174).JPG 3
+datasets\test\LeafHoles\Insects Infected (175).JPG 3
+datasets\test\LeafHoles\Insects Infected (177).JPG 3
+datasets\test\LeafHoles\Insects Infected (18).jpg 3
+datasets\test\LeafHoles\Insects Infected (180).JPG 3
+datasets\test\LeafHoles\Insects Infected (181).JPG 3
+datasets\test\LeafHoles\Insects Infected (187).JPG 3
+datasets\test\LeafHoles\Insects Infected (190).JPG 3
+datasets\test\LeafHoles\Insects Infected (196).JPG 3
+datasets\test\LeafHoles\Insects Infected (199).JPG 3
+datasets\test\LeafHoles\Insects Infected (203).JPG 3
+datasets\test\LeafHoles\Insects Infected (21).jpg 3
+datasets\test\LeafHoles\Insects Infected (216).JPG 3
+datasets\test\LeafHoles\Insects Infected (221).JPG 3
+datasets\test\LeafHoles\Insects Infected (224).JPG 3
+datasets\test\LeafHoles\Insects Infected (229).JPG 3
+datasets\test\LeafHoles\Insects Infected (232).JPG 3
+datasets\test\LeafHoles\Insects Infected (240).JPG 3
+datasets\test\LeafHoles\Insects Infected (247).JPG 3
+datasets\test\LeafHoles\Insects Infected (249).JPG 3
+datasets\test\LeafHoles\Insects Infected (255).JPG 3
+datasets\test\LeafHoles\Insects Infected (256).JPG 3
+datasets\test\LeafHoles\Insects Infected (257).JPG 3
+datasets\test\LeafHoles\Insects Infected (259).JPG 3
+datasets\test\LeafHoles\Insects Infected (27).jpg 3
+datasets\test\LeafHoles\Insects Infected (281).JPG 3
+datasets\test\LeafHoles\Insects Infected (287).JPG 3
+datasets\test\LeafHoles\Insects Infected (288).JPG 3
+datasets\test\LeafHoles\Insects Infected (293).JPG 3
+datasets\test\LeafHoles\Insects Infected (297).JPG 3
+datasets\test\LeafHoles\Insects Infected (31).jpg 3
+datasets\test\LeafHoles\Insects Infected (312).JPG 3
+datasets\test\LeafHoles\Insects Infected (316).JPG 3
+datasets\test\LeafHoles\Insects Infected (317).JPG 3
+datasets\test\LeafHoles\Insects Infected (320).JPG 3
+datasets\test\LeafHoles\Insects Infected (321).JPG 3
+datasets\test\LeafHoles\Insects Infected (326).JPG 3
+datasets\test\LeafHoles\Insects Infected (335).JPG 3
+datasets\test\LeafHoles\Insects Infected (337).JPG 3
+datasets\test\LeafHoles\Insects Infected (347).JPG 3
+datasets\test\LeafHoles\Insects Infected (353).JPG 3
+datasets\test\LeafHoles\Insects Infected (356).JPG 3
+datasets\test\LeafHoles\Insects Infected (358).JPG 3
+datasets\test\LeafHoles\Insects Infected (359).JPG 3
+datasets\test\LeafHoles\Insects Infected (361).JPG 3
+datasets\test\LeafHoles\Insects Infected (362).JPG 3
+datasets\test\LeafHoles\Insects Infected (371).JPG 3
+datasets\test\LeafHoles\Insects Infected (372).JPG 3
+datasets\test\LeafHoles\Insects Infected (382).JPG 3
+datasets\test\LeafHoles\Insects Infected (387).JPG 3
+datasets\test\LeafHoles\Insects Infected (389).JPG 3
+datasets\test\LeafHoles\Insects Infected (4).jpg 3
+datasets\test\LeafHoles\Insects Infected (40).JPG 3
+datasets\test\LeafHoles\Insects Infected (409).JPG 3
+datasets\test\LeafHoles\Insects Infected (419).JPG 3
+datasets\test\LeafHoles\Insects Infected (431).JPG 3
+datasets\test\LeafHoles\Insects Infected (443).JPG 3
+datasets\test\LeafHoles\Insects Infected (445).JPG 3
+datasets\test\LeafHoles\Insects Infected (45).JPG 3
+datasets\test\LeafHoles\Insects Infected (451).JPG 3
+datasets\test\LeafHoles\Insects Infected (454).JPG 3
+datasets\test\LeafHoles\Insects Infected (460).JPG 3
+datasets\test\LeafHoles\Insects Infected (470).JPG 3
+datasets\test\LeafHoles\Insects Infected (475).JPG 3
+datasets\test\LeafHoles\Insects Infected (476).JPG 3
+datasets\test\LeafHoles\Insects Infected (484).JPG 3
+datasets\test\LeafHoles\Insects Infected (486).JPG 3
+datasets\test\LeafHoles\Insects Infected (487).JPG 3
+datasets\test\LeafHoles\Insects Infected (493).JPG 3
+datasets\test\LeafHoles\Insects Infected (497).JPG 3
+datasets\test\LeafHoles\Insects Infected (500).JPG 3
+datasets\test\LeafHoles\Insects Infected (501).JPG 3
+datasets\test\LeafHoles\Insects Infected (504).JPG 3
+datasets\test\LeafHoles\Insects Infected (506).JPG 3
+datasets\test\LeafHoles\Insects Infected (508).JPG 3
+datasets\test\LeafHoles\Insects Infected (517).JPG 3
+datasets\test\LeafHoles\Insects Infected (527).JPG 3
+datasets\test\LeafHoles\Insects Infected (529).JPG 3
+datasets\test\LeafHoles\Insects Infected (530).JPG 3
+datasets\test\LeafHoles\Insects Infected (541).jpg 3
+datasets\test\LeafHoles\Insects Infected (543).jpg 3
+datasets\test\LeafHoles\Insects Infected (556).jpg 3
+datasets\test\LeafHoles\Insects Infected (559).jpg 3
+datasets\test\LeafHoles\Insects Infected (56).JPG 3
+datasets\test\LeafHoles\Insects Infected (562).jpg 3
+datasets\test\LeafHoles\Insects Infected (565).jpg 3
+datasets\test\LeafHoles\Insects Infected (569).jpg 3
+datasets\test\LeafHoles\Insects Infected (570).jpg 3
+datasets\test\LeafHoles\Insects Infected (572).jpg 3
+datasets\test\LeafHoles\Insects Infected (583).jpg 3
+datasets\test\LeafHoles\Insects Infected (63).JPG 3
+datasets\test\LeafHoles\Insects Infected (71).JPG 3
+datasets\test\LeafHoles\Insects Infected (87).JPG 3
+datasets\test\LeafHoles\Insects Infected (88).JPG 3
+datasets\test\LeafHoles\Insects Infected (9).jpg 3
+datasets\test\LeafHoles\Insects Infected (95).JPG 3
+datasets\test\LeafHoles\Insects Infected (96).JPG 3
+datasets\test\LeafHoles\Insects Infected (98).JPG 3
+datasets\test\LeafHoles\Leaf_Hole (1).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (103).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (107).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (111).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (112).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (116).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (12).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (121).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (123).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (124).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (126).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (128).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (129).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (136).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (137).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (149).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (156).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (16).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (161).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (162).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (169).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (172).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (182).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (183).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (195).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (2).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (20).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (200).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (207).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (210).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (217).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (218).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (222).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (224).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (225).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (226).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (228).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (239).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (243).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (253).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (259).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (277).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (281).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (282).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (29).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (290).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (291).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (294).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (30).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (301).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (303).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (304).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (307).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (312).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (317).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (320).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (330).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (331).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (333).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (336).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (338).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (339).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (350).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (355).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (360).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (361).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (362).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (367).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (373).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (375).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (376).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (381).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (383).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (385).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (386).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (389).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (392).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (393).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (399).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (400).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (409).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (41).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (411).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (413).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (418).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (422).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (425).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (426).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (436).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (442).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (445).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (450).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (452).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (462).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (464).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (475).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (477).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (480).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (482).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (483).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (487).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (491).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (499).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (517).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (525).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (526).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (531).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (536).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (538).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (54).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (540).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (543).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (544).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (550).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (553).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (557).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (561).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (571).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (576).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (579).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (582).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (591).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (60).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (601).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (603).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (605).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (620).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (63).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (631).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (644).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (646).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (655).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (663).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (671).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (76).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (8).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (80).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (81).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (83).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (84).jpg 3
+datasets\test\LeafHoles\Leaf_Hole (88).jpg 3
+datasets\test\RoseRust\brightened_IMG_20230703_213441.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213445.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213446_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213451.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213455.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213456.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213456_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213503_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213504.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213505.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213508.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213508_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213531.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213532.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213533.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213534_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213535.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213538.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213539_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213540.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213541.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213543.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213544_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213550_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213554_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213558_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213600_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213604_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213625.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213627.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213628_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213629.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213632.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213632_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213641.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213643_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213646.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213651.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213652.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213654.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213658.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213715_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213716.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213717.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213721.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213725.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213726.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213729_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213731.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213735.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213740.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213743_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213744.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213800.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213804.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213821.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213824.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213827.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213829.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213854.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213854_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213856_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213859_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213903_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213905.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213908.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213916.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213918_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_213922_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214012.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214016.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214018.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214018_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214021.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214022.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214024.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214026_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214029_1.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214031.jpg 4
+datasets\test\RoseRust\brightened_IMG_20230703_214034_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213446_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213450.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213452.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213453.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213505_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213509.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213534_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213539.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213548.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213548_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213600.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213625.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213627.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213642.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213648.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213649_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213653.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213658.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213713.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213720.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213720_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213722.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213724_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213727_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213733.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213737.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213739.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213740.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213741.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213745.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213759_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213801.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213801_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213802.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213803.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213806_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213809.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213815_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213818_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213819.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213820.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213856.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213857.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213903.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213905.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213906.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213910.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213911.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213916.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213917.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213918.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213918_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213920.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213923.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_213926_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214005.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214011.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214013.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214013_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214014_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214019.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214031.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214032_1.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214035.jpg 4
+datasets\test\RoseRust\flipped_horizontal_IMG_20230703_214036.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213439.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213442.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213446_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213448.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213451.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213453_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213455.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213456.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213500.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213504.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213510_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213537.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213544.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213546.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213550_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213552_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213553.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213558_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213600_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213602_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213603.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213641.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213642.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213643.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213645_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213649_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213655.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213656.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213657.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213658.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213714.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213715.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213728.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213736_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213741_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213759.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213759_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213803.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213814_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213815.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213818.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213821.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213822.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213825_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213832.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213857.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213858.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213902.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213905.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213906.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213908.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213910.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213911_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213915_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213920.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213921.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_213922_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214010.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214013_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214015.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214016_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214018_1.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214021.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214027.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214028.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214031.jpg 4
+datasets\test\RoseRust\flipped_vertical_IMG_20230703_214032.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213441_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213442.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213443.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213446.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213448_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213451.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213451_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213455.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213458_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213503_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213504.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213510.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213534_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213540.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213542.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213544.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213548.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213549.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213554_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213558_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213559.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213604.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213626.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213628_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213635_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213636_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213641_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213645_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213649_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213653_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213655.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213658_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213712.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213732.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213737.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213742.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213745.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213800.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213803.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213804.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213806.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213808.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213812.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213813.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213815.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213816.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213822.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213824.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213825.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213825_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213828.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213829_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213830.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213854_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213907_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213909.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213911_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213919.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213920_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213922.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213922_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213924_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_213926_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214004_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214006_1.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214014.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214020.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214021.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214026.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214034.jpg 4
+datasets\test\RoseRust\gamma_corrected_IMG_20230703_214037_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213439.jpg 4
+datasets\test\RoseRust\IMG_20230703_213441_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213442.jpg 4
+datasets\test\RoseRust\IMG_20230703_213444.jpg 4
+datasets\test\RoseRust\IMG_20230703_213446.jpg 4
+datasets\test\RoseRust\IMG_20230703_213446_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213448.jpg 4
+datasets\test\RoseRust\IMG_20230703_213451_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213454.jpg 4
+datasets\test\RoseRust\IMG_20230703_213459.jpg 4
+datasets\test\RoseRust\IMG_20230703_213508.jpg 4
+datasets\test\RoseRust\IMG_20230703_213510_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213532.jpg 4
+datasets\test\RoseRust\IMG_20230703_213532_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213535.jpg 4
+datasets\test\RoseRust\IMG_20230703_213536.jpg 4
+datasets\test\RoseRust\IMG_20230703_213537.jpg 4
+datasets\test\RoseRust\IMG_20230703_213537_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213542.jpg 4
+datasets\test\RoseRust\IMG_20230703_213543.jpg 4
+datasets\test\RoseRust\IMG_20230703_213544.jpg 4
+datasets\test\RoseRust\IMG_20230703_213545.jpg 4
+datasets\test\RoseRust\IMG_20230703_213550_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213553.jpg 4
+datasets\test\RoseRust\IMG_20230703_213554.jpg 4
+datasets\test\RoseRust\IMG_20230703_213556_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213627.jpg 4
+datasets\test\RoseRust\IMG_20230703_213643_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213644.jpg 4
+datasets\test\RoseRust\IMG_20230703_213653_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213658.jpg 4
+datasets\test\RoseRust\IMG_20230703_213658_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213723.jpg 4
+datasets\test\RoseRust\IMG_20230703_213726.jpg 4
+datasets\test\RoseRust\IMG_20230703_213727_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213729.jpg 4
+datasets\test\RoseRust\IMG_20230703_213733.jpg 4
+datasets\test\RoseRust\IMG_20230703_213734_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213736_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213742.jpg 4
+datasets\test\RoseRust\IMG_20230703_213745.jpg 4
+datasets\test\RoseRust\IMG_20230703_213801_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213803_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213809.jpg 4
+datasets\test\RoseRust\IMG_20230703_213810.jpg 4
+datasets\test\RoseRust\IMG_20230703_213811.jpg 4
+datasets\test\RoseRust\IMG_20230703_213812.jpg 4
+datasets\test\RoseRust\IMG_20230703_213816.jpg 4
+datasets\test\RoseRust\IMG_20230703_213818.jpg 4
+datasets\test\RoseRust\IMG_20230703_213818_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213819.jpg 4
+datasets\test\RoseRust\IMG_20230703_213827_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213829.jpg 4
+datasets\test\RoseRust\IMG_20230703_213829_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213855.jpg 4
+datasets\test\RoseRust\IMG_20230703_213856_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213858.jpg 4
+datasets\test\RoseRust\IMG_20230703_213903.jpg 4
+datasets\test\RoseRust\IMG_20230703_213909.jpg 4
+datasets\test\RoseRust\IMG_20230703_213909_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_213911.jpg 4
+datasets\test\RoseRust\IMG_20230703_213918.jpg 4
+datasets\test\RoseRust\IMG_20230703_213926.jpg 4
+datasets\test\RoseRust\IMG_20230703_214010.jpg 4
+datasets\test\RoseRust\IMG_20230703_214012.jpg 4
+datasets\test\RoseRust\IMG_20230703_214016_1.jpg 4
+datasets\test\RoseRust\IMG_20230703_214025.jpg 4
+datasets\test\RoseRust\IMG_20230703_214029.jpg 4
+datasets\test\RoseRust\IMG_20230703_214030.jpg 4
+datasets\test\RoseRust\IMG_20230703_214037.jpg 4
+datasets\test\RoseRust\IMG_20230703_214038.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213439.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213441.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213441_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213443.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213443_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213448_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213451.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213458_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213500.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213501.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213502.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213505_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213534.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213536.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213537_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213541.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213555.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213556_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213557.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213559.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213602_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213604_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213636.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213636_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213638.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213639.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213641.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213643.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213644.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213645_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213653_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213656.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213658.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213712.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213715.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213725.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213732.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213739.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213742.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213759.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213809_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213811.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213820.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213855.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213859.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213901.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213904.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213905.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213911.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213911_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213914.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213915_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213916.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213917.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_213921.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214004.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214013.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214014_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214022_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214027.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214032.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214034_1.jpg 4
+datasets\test\RoseRust\noisy_IMG_20230703_214035.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213441_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213444.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213445.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213448.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213453.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213453_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213457.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213535.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213537_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213543.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213544.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213546_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213549.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213550_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213551.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213553.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213556.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213600_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213602_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213631.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213636.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213639.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213643_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213649_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213651_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213652.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213655.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213712.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213714.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213716.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213720_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213722.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213724.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213729.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213734_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213736_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213738.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213743.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213743_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213806_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213812_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213815_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213820.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213820_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213826.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213827.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213832.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213858.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213900.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213904.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213907.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213907_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213908.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213909.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213914.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213916.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213917.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213918.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213925.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_213926.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214004_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214005.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214006_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214008.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214009.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214009_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214011_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214020.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214022_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214032_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214034_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214037_1.jpg 4
+datasets\test\RoseRust\zoomed_IMG_20230703_214038.jpg 4

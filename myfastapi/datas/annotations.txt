@@ -1,0 +1,5 @@
+BlackSpot 0
+DownyMildew 1
+HealthyLeaf 2
+LeafHoles 3
+Moasic 4
